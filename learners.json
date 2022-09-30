@@ -1,0 +1,22 @@
+[
+    {
+        "name":"melki",
+        "age":25,
+        "ville" : "kinshasa"
+    },
+    {
+        "name":"Pathy",
+        "age":51,
+        "ville" : "kinshasa"
+    },
+    {
+        "name":"Amos",
+        "age":21,
+        "ville" : "kinshasa"
+    },
+    {
+        "name":"deborah",
+        "age":27,
+        "ville" : "kinshasa"
+    }
+]
